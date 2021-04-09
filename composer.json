@@ -1,0 +1,12 @@
+{
+    "name": "hando/htdocs",
+    "authors": [
+        {
+            "name": "Michail Andrews",
+            "email": "andr.michail@gmail.com"
+        }
+    ],
+    "require": {
+    "sendgrid/sendgrid": "~7"
+  }
+}
