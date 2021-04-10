@@ -1,7 +1,3 @@
-<?php
-header("Location: /home");
- ?>
-
 <!DOCTYPE html>
 <html>
   <head>
